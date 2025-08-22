@@ -1,2 +1,2 @@
 # FILTERED MENU
-## Lightweight filtering for a fast user experience
+This is a lightweight solution that gives the user a virtually instant experience when filtering
